@@ -1,5 +1,5 @@
 # AI-as-a-learning-tool
-This repository contains the full report and accompanying materials for the educational project "AI as a Learning Tool" by Alberto Calcara and Cristian Di Tucci.
+This repository contains the full report and accompanying materials for the university project "AI as a Learning Tool", developed by Alberto Calcara and Cristian Di Tucci as part of an initiative and opportunity given by Professor Paolo Montuschi to selected students.
 
 The project explores the practical use of free AI tools in both teaching and independent learning contexts. We approached this from two complementary perspectives:
 
